@@ -1,0 +1,10 @@
+hborder {}
+canvas {
+  border: 15px solid #000000;
+  display: block;
+}
+html, body {
+  margin: 4px;
+  padding: 4px;
+
+}
